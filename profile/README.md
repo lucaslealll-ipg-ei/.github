@@ -24,7 +24,7 @@
 <br> <br>
 
 ### **General Projects**
-> PL/SQL | Haskell | C | Ino | Salesforce | Bootstrap | Javacript | Photoshop | Premiere <br> Repo: https://github.com/lucaslealll-ipg-ei/ipg-engenharia-informatica
+> PLSQL | Haskell | C | Ino | Salesforce | Bootstrap | Javacript | Photoshop | Premiere <br> Repo: https://github.com/lucaslealll-ipg-ei/ipg-engenharia-informatica
 
 ### **Website – Electrician Services**
 > HTML | CSS <br> Repo: https://github.com/lucaslealll-ipg-ei/ipg-website-electrician
